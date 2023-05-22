@@ -71,11 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<h1>Tooltip</h1>
+<h1>🔴Tooltip</h1>
 
 ![tooltip](https://github.com/abhishekdangi006/tooltip_React/assets/76874880/f387595d-d926-4cb2-8c6b-4f99fa9d852c)
 
 
-<h1>After hovering</h1>
+<h1>🔴After hovering</h1>
 
 ![tool](https://github.com/abhishekdangi006/tooltip_React/assets/76874880/c1265d31-c3fc-478d-9b8f-9c1c3681f512)
